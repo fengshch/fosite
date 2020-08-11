@@ -1,4 +1,4 @@
-module github.com/ory/fosite
+module github.com/fengshch/fosite
 
 require (
 	github.com/asaskevich/govalidator v0.0.0-20200428143746-21a406dcc535
